@@ -2,7 +2,7 @@
 name: New Task
 about: New tasks
 title: ''
-labels: ''
+labels: to be refined
 assignees: ''
 
 ---
